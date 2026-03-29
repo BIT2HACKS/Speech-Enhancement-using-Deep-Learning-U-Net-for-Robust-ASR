@@ -1,0 +1,9 @@
+## Features
+
+- End-to-end speech enhancement pipeline
+- Mel spectrogram-based audio representation
+- Noise injection for training data simulation
+- U-Net based deep learning model
+- Audio reconstruction using Griffin-Lim
+- Visualization of spectrograms and waveforms
+- Performance evaluation using Signal-to-Noise Ratio (SNR)
